@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=k0tei&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 
-## My skills
+# My skills
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)

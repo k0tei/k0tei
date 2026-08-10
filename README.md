@@ -7,7 +7,7 @@
 ```python
 > Systems Analysis and Development student | Linux & Networking enthusiast
 > Lover of complex architectures, heavy riffs (Rock), and smooth improvisations (Jazz)
-> Training hard in the ring (Boxe) and building solid systems on the terminal
+> Training hard in boxing and building solid systems on the terminal
 > Exploring network protocols, systems administration, and backend development
 > Always curious, lifelong learner, and terminal native
 

@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="">
 
 ### Hello, I'm k0tei.
-
+Currently focused on: Linux • Networking • Systems Administration • Backend Development
 <img align="left" src="https://i.pinimg.com/736x/34/a8/38/34a8383d6c7eb720e09c6664409ca686.jpg" width="265" height="270" />
 
 ```css

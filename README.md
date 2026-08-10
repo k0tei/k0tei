@@ -1,20 +1,23 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="">
 
 ### Hello, I'm k0tei.
+
+<img align="left" src="https://i.pinimg.com/736x/34/a8/38/34a8383d6c7eb720e09c6664409ca686.jpg" width="265" height="270" />
+
 ```css
-> root :~ whoami
+> root :~ whoami 
 ```
 ```python
 > Systems Analysis and Development student | Linux & Networking enthusiast
 > Lover of complex architectures, heavy riffs (Rock), and smooth improvisations (Jazz)
 > Training hard in boxing and building solid systems on the terminal
 > Exploring network protocols, systems administration, and backend development
-> Always curious, lifelong learner, and terminal native
-
-> "Float like a butterfly, ping like a bee."
-
+> Always curious, dark mode everything, and terminal native
+> Solving complex problems with the obsession of a Gotham detective
+> "Float like a butterfly, sting like a bee"
 ```
-<img src="https://img.shields.io/static/v1?label=Overview&message=k0tei&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<br clear="left"/>
 
 ## Streak 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=k0tei&theme=algolia" alt="" /></p>

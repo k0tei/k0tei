@@ -3,7 +3,11 @@
 ### Hello, I'm k0tei.
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=k0tei&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-[![trophy](https://github-profile-trophy.vercel.app/?username=k0tei)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🔥 Streak Stats & Languages
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=k0tei&theme=algolia" alt="temitope" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0tei&theme=algolia&layout=compact" alt="temitope" /></p>
+
 
 # My skills
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)

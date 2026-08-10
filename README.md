@@ -3,7 +3,7 @@
 ### Hello, I'm k0tei.
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=k0tei&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 # My skills
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)

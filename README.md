@@ -45,4 +45,6 @@
 ![i3](https://img.shields.io/badge/i3-%2352C0FF.svg?style=for-the-badge&logo=i3&logoColor=white)
 ![Sway](https://img.shields.io/badge/Sway-%2368751C.svg?style=for-the-badge&logo=sway&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-%231D99F3.svg?style=for-the-badge&logo=kdeplasma&logoColor=white)
+
+
 Feito com ❤️ by k0tei 🇧🇷

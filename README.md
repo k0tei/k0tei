@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=k0tei&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-## 🔥 Streak Stats & Languages
+## Streak 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=k0tei&theme=algolia" alt="" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0tei&theme=algolia&layout=compact" alt="" /></p>
 

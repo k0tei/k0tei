@@ -25,7 +25,7 @@ Currently focused on: Linux • Networking • Systems Administration • Backen
 
 
 ## Top Languages
-<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=k0tei&layout=compact&langs_count=6&theme=aura_dark" alt="" /></p>
+<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=k0tei&layout=compact&langs_count=8&theme=aura_dark" alt="" /></p>
 
 
 

@@ -24,6 +24,12 @@ Currently focused on: Linux • Networking • Systems Administration • Backen
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0tei&theme=algolia&layout=compact" alt="" /></p>
 
 
+## Top Languages
+<p align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=k0tei&layout=compact&langs_count=6&theme=aura_dark" alt="" /></p>
+
+
+
+
 # My skills
 ![C# and .Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)

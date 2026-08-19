@@ -20,7 +20,8 @@ Currently focused on: Linux • Networking • Systems Administration • Backen
 <br clear="left"/>
 
 ## Streak 
-
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=k0tei&theme=algolia" alt="" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k0tei&theme=algolia&layout=compact" alt="" /></p>
 
 
 ## Top Languages

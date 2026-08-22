@@ -2,6 +2,7 @@
 
 ### Hello, I'm k0tei.
 Currently focused on: Linux • Networking • Systems Administration • Backend Development
+
 <img align="left" src="https://i.pinimg.com/736x/34/a8/38/34a8383d6c7eb720e09c6664409ca686.jpg" width="265" height="270" />
 
 ```css
